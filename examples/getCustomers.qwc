@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<QBWCXML>
+    <AppName>Get Customers Application</AppName>
+    <AppID></AppID>
+    <AppURL>http://localhost/connector/examples/example.php</AppURL>
+    <AppDescription>Get Customers from QB</AppDescription>
+    <AppSupport>http://localhost</AppSupport>
+    <UserName>Admin</UserName>
+    <OwnerID>{90A44FB7-33D6-4815-AC85-AC86A7E71231}</OwnerID>
+    <FileID>{57F3B9B6-86F6-4FCC-B1FF-967DE1813121}</FileID>
+    <QBType>QBFS</QBType>
+    <IsReadOnly>false</IsReadOnly>
+</QBWCXML>
