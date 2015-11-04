@@ -1,5 +1,9 @@
-QuickBooks Web Connector Server micro-framework
+Simple PHP library to use as SOAP server for QB Web Connector
 ===========================
+
+**WARNING!!!**
+
+Right now this library is under development and is not recommended to use. I will inform about release and add documentation later.
 
 **QBXML SDK**
 
