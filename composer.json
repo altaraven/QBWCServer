@@ -1,5 +1,5 @@
 {
-  "name": "makhorin/QBWCServer",
+  "name": "makhorin/qbwc-server",
   "description": "Simple PHP library to use as SOAP server for QB Web Connector",
   "license": "MIT",
   "keywords": ["quickbooks"],

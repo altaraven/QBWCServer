@@ -1,4 +1,4 @@
-Simple PHP library to use as SOAP server for QB Web Connector
+Simple PHP 5.4+ library to use as SOAP server for QB Web Connector
 ===========================
 
 **WARNING!!!**
