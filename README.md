@@ -1,9 +1,9 @@
-Simple PHP 5.4+ library to use as SOAP server for QB Web Connector
+This is an example how to create a simple PHP SOAP server for QB Web Connector
 ===========================
 
 **WARNING!!**
 
-Right now this library is under development and is not recommended to use. I will inform about release and add documentation later.
+The package is not for production usage. It is more like a guide or a "how to" concept with examples
 
 **QBXML SDK**
 
